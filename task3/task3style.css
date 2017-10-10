@@ -1,0 +1,24 @@
+html{font-size:62.5%;}
+body{background-color:#68cdd5;
+     color:#FFF;
+     font-size:1.2rem;}
+.main{padding:5rem 0 8rem;
+      background-image:url(images/task3main.png);
+      background-repeat:no-repeat;
+      background-position:center;}
+.content{width:75%;
+          margin:0 auto;}
+.footer{width:75%;
+         margin:0 auto;
+         padding-top:10rem;}
+.left{float:left;
+       text-align:center;
+           background-image:url(images/task3left.png);
+           background-repeat:no-repeat;
+           background-position:center;}
+.right{float:right;
+        text-align:center;
+            background-image:url(images/task3right.png);
+            background-repeat:no-repeat;
+            background-position:center}
+.footer p{padding-top:6.5rem}
