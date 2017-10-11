@@ -1,0 +1,45 @@
+html{font-size:62.5%;}
+body{margin:0;
+     background-color:#eff0f4;}
+.header{position:relative;
+         padding-bottom:4rem;
+         background-color:#5fc0cd;
+         color:white;}
+.header a{font-size:1.4rem;}
+a:link{color:white;
+        text-decoration:none;}
+a:visited{color:white;
+           text-decoration:none;}
+.abs-left{height:19px;
+           position:absolute;
+           left:11px;
+           top:50%;
+           margin-top:-9.5px;}
+.abs-cen{display:inline-block;
+          width:30px;
+          height:20px;
+          position:absolute;
+          top:50%;
+          left:50%;
+          margin-top:-10px;
+          margin-left:-15px;
+          font-size:1.5rem;}
+.abs-rig{height:19px;
+          position:absolute;
+          right:11px;
+          top:50%;
+          margin-top:-9.5px;}
+.cpn{margin:12px 0;
+      background-color:white;}
+.cpn input{width:85%;
+            padding:10px 15px;
+            margin:10px 0;
+            border:none;
+            border-left:solid 1px #eff0f4;}
+.pass{margin:12px 0;
+      background-color:white;}
+.pass input{width:85%;
+             padding:10px 15px;
+             margin:10px 0;
+             border:none;
+             border-left:solid 1px #eff0f4;}
